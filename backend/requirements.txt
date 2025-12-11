@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+openai
+python-dotenv
+requests
+baidu-aip
+psycopg2-binary
+python-docx
+pypdf
